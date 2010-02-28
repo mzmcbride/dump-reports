@@ -1,0 +1,20 @@
+Dump reports
+
+Chemical element names
+
+Each report goes in a hydrogen.py file.
+
+$ python dumper.py --report=hydrogen
+
+----
+namespaces = (1,2,3)
+find_all = False
+def search_article_text():
+    regex = re.compile(...|re.I)
+description = 
+----
+
+
+Date should be based on an listdir() of /usr/mnt-store/dumps/enwiki/
+Sort, find bottom, use for date in report description as well....
+
